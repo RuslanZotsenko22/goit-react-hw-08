@@ -1,0 +1,21 @@
+.navContainer {
+  background-color: #f8f9fa;
+  padding: 10px;
+}
+
+.nav {
+  display: flex;
+  gap: 20px;
+}
+
+.navLink {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+  font-size: 22px;
+}
+
+.navLinkActive {
+  color: #ff0066;
+  text-decoration: underline;
+}

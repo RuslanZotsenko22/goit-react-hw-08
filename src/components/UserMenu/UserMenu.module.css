@@ -1,0 +1,33 @@
+.user {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+
+.user_par {
+  font-size: 18px;
+  font-weight: bold;
+  color: #ff0066;
+}
+
+.button_user {
+  background-color: #4caf50;
+  border: none;
+  color: white;
+  padding: 5px 10px;
+  font-size: 14px;
+  line-height: 1;
+  cursor: pointer;
+  display: inline-block;
+  border-radius: 4px;
+  vertical-align: middle;
+  max-height: 30px;
+}
+
+.button_user:focus {
+  outline: none;
+}
+
+.button_user:hover {
+  background-color: #45a049;
+}
