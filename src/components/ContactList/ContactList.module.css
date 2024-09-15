@@ -1,0 +1,10 @@
+.container {
+  margin-top: 20px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.section {
+  list-style-type: none;
+  padding: 0;
+}
